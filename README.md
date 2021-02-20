@@ -19,8 +19,8 @@
 #### Application Walkthrough:
         - The GUI App generates both EAN13 Barcodes and QR codes. 
         - Use the respective input text boxes to enter the values which needs to be converted to Bar/QR codes.
-        
         - The layout of the GUI App is shown below - 
+        
 <p align="center">
     <img src="/demo_pic1.png" alt="Bar/QR code generator demo" width="350" title="Bar/QR code generator App">
 </p>
@@ -46,4 +46,4 @@
 
 ## Instructions on how to use the Application code:
 
-	Please refer the instructions at the {WIKI} section: https://github.com/mkr302/Barcode_QRcode_Generator_GUI_App-Python_Tkinter/wiki
+   Please refer the instructions at the {WIKI} section: https://github.com/mkr302/Barcode_QRcode_Generator_GUI_App-Python_Tkinter/wiki
