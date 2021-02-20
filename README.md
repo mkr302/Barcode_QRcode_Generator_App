@@ -3,13 +3,13 @@
     
 #### What types of codes are generated:
      Barcode (EAN13):
-            The International Article Number (also known as European Article Number or EAN) is a standard describing a barcode symbology and numbering system used in global trade              to identify a specific retail product type, in a specific packaging configuration, from a specific manufacturer.
+            The International Article Number (also known as European Article Number or EAN) is a standard describing a barcode symbology and numbering system used in global trade to identify a specific retail product type, in a specific packaging configuration, from a specific manufacturer.
 
      QR code:
-             A QR code (abbreviated from Quick Response code) is a type of matrix barcode (or two-dimensional barcode) first designed in 1994 for the automotive industry in Japan.              A barcode is a machine-readable optical label that contains information about the item to which it is attached. In practice, QR codes often contain data for a                      locator, identifier, or tracker that points to a website or application. 
+             A QR code (abbreviated from Quick Response code) is a type of matrix barcode (or two-dimensional barcode) first designed in 1994 for the automotive industry in Japan. A barcode is a machine-readable optical label that contains information about the item to which it is attached. In practice, QR codes often contain data for a locator, identifier, or tracker that points to a website or application. 
 
-###### To read more on EAN13: https://en.wikipedia.org/wiki/International_Article_Number
-###### For more on QR codes: https://en.wikipedia.org/wiki/QR_code
+###### To read more on EAN13 --> https://en.wikipedia.org/wiki/International_Article_Number
+###### For more on QR codes --> https://en.wikipedia.org/wiki/QR_code
 
 
 #### Dependencies:
