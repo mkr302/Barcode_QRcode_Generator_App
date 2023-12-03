@@ -1,0 +1,14 @@
+asgiref==3.7.2
+DateTime==5.3
+Levenshtein==0.23.0
+Pillow==10.1.0
+pypng==0.20220715.0
+PyQRCode==1.2.1
+python-barcode==0.15.1
+python-Levenshtein==0.23.0
+pytz==2023.3.post1
+rapidfuzz==3.5.2
+six==1.16.0
+sqlparse==0.4.4
+typing_extensions==4.8.0
+zope.interface==6.1
